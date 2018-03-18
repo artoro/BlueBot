@@ -1,0 +1,12 @@
+//C# - int to 2 bytes code
+UInt16 NUM = (num<0)? -num : num; // wartoœæ bezwzglêdna z liczby
+if (NUM>32384) return Error; // wartoœæ spoza zakresu
+byte N1 = NUM % 255 + 1, N2 = NUM / 255 + 1;
+ // szyfrowanie
+if (num<0) N2 |= 128; // bit znaku
+else N2 &= 127;
+
+//Arduino - 2 bytes code to int
+int read = N1 + (N2&127)*255 - 256;
+
+if (N2&128) read = -read;
