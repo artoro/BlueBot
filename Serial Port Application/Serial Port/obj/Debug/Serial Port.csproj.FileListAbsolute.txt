@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\bin\Debug\Serial Port.exe.config
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\bin\Debug\Serial Port.exe
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\bin\Debug\Serial Port.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial Port.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial_Port.Form1.resources
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial Port.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial Port.exe
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial Port.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\Port Szeregowy\Serial Port\Serial Port\obj\Debug\Serial_Port.Form2.resources
